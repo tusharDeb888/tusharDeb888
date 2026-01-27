@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Tushar Deb! 👋</h1>
   
   <p>
-    <b>AI & ML Undergrad @ UEM Kolkata | IOCL Intern</b>
+    <b>AI & ML Undergrad @ IEM Kolkata</b>
   </p>
 
   <a href="https://www.debtushar.in" target="_blank">
@@ -26,7 +26,7 @@
 
 ### 🧐 **About Me**
 
-I am a passionate technology learner currently diving deep into the world of Data Science. My primary focus right now is bridging the gap between mathematical theory and practical implementation.
+I am a passionate technology learner currently diving deep into the world of Data. My primary focus right now is bridging the gap between mathematical theory and practical implementation.
 
 * 🧠 **Machine Learning:** Building models and understanding the core algorithms.
 * 📊 **Applied Statistics:** Mastering the math behind the data analysis.
@@ -50,7 +50,7 @@ I am a passionate technology learner currently diving deep into the world of Dat
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-#### **Backend & Frameworks**
+#### **Frameworks**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -71,10 +71,6 @@ I am a passionate technology learner currently diving deep into the world of Dat
 
 ---
 
-### 🔭 **Current Focus**
-- 🤖 Developing a **RAG Application** and exploring Large Language Models.
-- 🔐 Researching Digital Forensics and Cryptography.
-- 💼 Working on an **AI-Based Expense Tracker**.
 
 <div align="center">
   <p><i>Thanks for visiting! Feel free to reach out.</i></p>
