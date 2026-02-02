@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Tushar Deb! 👋</h1>
+  <h1>Hi there, I'm Tushar Deb!</h1>
   
   <p>
     <b>AI & ML Undergrad @ IEM Kolkata</b>
@@ -24,17 +24,17 @@
 
 ---
 
-### 🧐 **About Me**
+### **About Me**
 
 I am a passionate technology learner currently diving deep into the world of Data. My primary focus right now is bridging the gap between mathematical theory and practical implementation.
 
-* 🧠 **Machine Learning:** Building models and understanding the core algorithms.
-* 📊 **Applied Statistics:** Mastering the math behind the data analysis.
-* ⚙️ **Data Engineering:** Learning to build robust pipelines (ETL) and manage data flow.
+* **Machine Learning:** Building models and understanding the core algorithms.
+* **Applied Statistics:** Mastering the math behind the data analysis.
+* **Data Engineering:** Learning to build robust pipelines (ETL) and manage data flow.
 
 ---
 
-### 🚀 **Tech Stack & Tools**
+### **Tech Stack & Tools**
 
 #### **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
